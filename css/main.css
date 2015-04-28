@@ -91,7 +91,11 @@ footer{
     border-top:1px solid #EEE;
     border-bottom:1px solid #EEE;
 }
-
+canvas{
+        width: 100% !important;
+        max-width: 800px;
+        height: auto !important;
+    }
 #myChart{
         width:400px;
         height: 400px;
