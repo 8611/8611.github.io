@@ -92,9 +92,18 @@ footer{
     border-bottom:1px solid #EEE;
 }
 
+#myChart{
+        width:400px;
+        height: 400px;
+    }
+
 @media (max-width: 400px) {
     .hash{
         display: none;
+    }
+    #myChart{
+        width:90%;
+        height: 90%;
     }
 
 }
