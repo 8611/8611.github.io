@@ -98,6 +98,9 @@ footer{
     }
 
 @media (max-width: 400px) {
+    #home .content{
+        font-size: 90%;
+    }
     .hash{
         display: none;
     }
