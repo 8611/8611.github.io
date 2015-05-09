@@ -1,5 +1,5 @@
 $.backstretch(["img/bg.jpg"], {
-  fade: 2000
+  fade: 1000
 });
 
 $(function() {
